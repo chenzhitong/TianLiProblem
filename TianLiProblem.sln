@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TianLiProblom", "TianLiProblom\TianLiProblom.csproj", "{B8455D8C-4291-4A34-A875-5EC08B110DC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TianLiProblem", "TianLiProblem\TianLiProblem.csproj", "{B8455D8C-4291-4A34-A875-5EC08B110DC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
